@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 Hi there! I'm Roman Siakaev
+
+Welcome to my GitHub profile! I'm a frontend engineer with extensive experience in creating modern, interactive, and responsive web applications. My passion lies in developing user interfaces that not only look good but also provide a great user experience.
+
+## 🚀 My Skills
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS, LESS
+- **Libraries & Frameworks:** Vue.js, Nuxt.js, React
+- **Tools:** Git, Vite, Webpack, Babel, ESLint, Prettier, Figma
+- **Methodologies:** BEM (Block Element Modifier), SOLID Principles, FSD (Feature-Sliced Design), OOP (Object-Oriented Programming)
+- **Others:** RESTful APIs, GraphQL, Docker, CI/CD, NodeJS
 
 <!--
 **sjakaev/sjakaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
